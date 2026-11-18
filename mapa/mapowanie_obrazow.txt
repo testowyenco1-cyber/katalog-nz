@@ -1,0 +1,33 @@
+MAPA PLIKÓW GRAFICZNYCH – KATALOG ENCO SERIA NZ (60/40)
+
+HTML korzysta ze ścieżek względnych images/<nazwa_pliku>.
+Pliki widoków, które mają odpowiedniki w lokalnym zestawie enco_slots,
+zostały pobrane z tego zestawu i użyte jako priorytetowe wersje.
+Pozostałe grafiki (warianty wyposażenia i rozdzielnice SN) pochodzą
+z dostarczonego archiwum źródłowego katalogu images.
+
+WIDOKI MODELI:
+  - images/03_nz210240_izometryczny.png  [lokalny zestaw enco_slots]
+  - images/03_nz210240_rzut.png  [lokalny zestaw enco_slots]
+  - images/03_nz210240_widok_boczny.png  [lokalny zestaw enco_slots]
+  - images/04_nz210290_2d_izometryczny.png  [lokalny zestaw enco_slots]
+  - images/04_nz210290_2d_rzut.png  [lokalny zestaw enco_slots]
+  - images/04_nz210290_2d_widok_boczny.png  [lokalny zestaw enco_slots]
+  - images/05_nz210290_3d_izometryczny.png  [lokalny zestaw enco_slots]
+  - images/05_nz210290_3d_rzut.png  [lokalny zestaw enco_slots]
+  - images/05_nz210290_3d_widok_boczny.png  [lokalny zestaw enco_slots]
+  - images/06_nz210290_4d_izometryczny.png  [lokalny zestaw enco_slots]
+  - images/06_nz210290_4d_rzut.png  [lokalny zestaw enco_slots]
+  - images/06_nz210290_4d_widok_boczny.png  [lokalny zestaw enco_slots]
+
+POZOSTAŁE GRAFIKI:
+  - images/01_okladka_nz.jpg  [oryginalny katalog images]
+  - images/03_nz210240_wariant_01.png  [oryginalny katalog images]
+  - images/03_nz210240_wariant_02.png  [oryginalny katalog images]
+  - images/03_nz210240_wariant_03.png  [oryginalny katalog images]
+  - images/05_nz210290_3d_wariant_a.png  [oryginalny katalog images]
+  - images/05_nz210290_3d_wariant_b.png  [oryginalny katalog images]
+  - images/05_nz210290_3d_wariant_c.png  [oryginalny katalog images]
+  - images/07_eaton_xiria.png  [oryginalny katalog images]
+  - images/07_schneider_airset.jpg  [oryginalny katalog images]
+  - images/07_siemens_8djh24.png  [oryginalny katalog images]

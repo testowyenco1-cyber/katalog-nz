@@ -1,0 +1,1 @@
+Tutaj umieść zdjęcia i rysunki zgodnie z plikiem Mapa_zdjec_Katalog_ENCO_NZ_poprawiona.txt. HTML automatycznie ładuje pliki z tego folderu.
